@@ -1,4 +1,4 @@
-### Olá! Eu sou a Maria Fernanda 🖐️
+### Hello! I'm Maria Fernanda 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thecodemf)
 
@@ -27,4 +27,4 @@
 <img align= "center" alt= "github" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-Apaixonada pela educação e programação, elas são revolucionárias e transformadoras na vida das pessoas. Sem educação não há oportunidades!
+Passionate about education and programming, they are revolutionary and transforming people's lives. Without education there are no opportunities!
