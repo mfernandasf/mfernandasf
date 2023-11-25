@@ -9,7 +9,7 @@
 - 🔭 I’m not currently working   
   
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Lógica de Programação e Raspberry Pi  
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Lógica de Programação  
   
 
 - ❓ Ask me about anything related to HTML, CSS, JavaScript and related technologies  
