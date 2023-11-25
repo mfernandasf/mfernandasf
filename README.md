@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Maria Fernanda, a full-time front-end freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm Maria Fernanda, front-end developer, but I don't work remotely yet.</div>  
   
 
 - 🔭 I’m not currently working   
