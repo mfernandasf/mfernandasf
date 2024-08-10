@@ -1,11 +1,11 @@
+<h1 align="center">Hi 👋, I'm Maria Fernanda</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tudo que a tecnologia e programação podem fazer em nossas vidas!
+Atualmente busco me especializar na área do desenvolvimento Fullstack!</h3>
 
-# Olá, gente! 😁👋🏼
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-fernanda-silva-facundo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-fernanda-silva-facundo/" height="30" width="40" /></a>
+</p>
 
-Me chamo Maria Fernanda, sou graduanda em Análise e Desenvolvimento de Sistemas pelo IFCE, estou me especializando em FrontEnd, com foco em JavaScript, mas, também procuro estudar um pouco de BackEnd também.
-
-Atualmente estou estudando constantemente para me especializar nas áreas que possuo interesse e aberta a novas oportunidades!
-
-Possuo conhecimentos em redes de computadores, desenvolvimento frontend, UX/UI Design e outras áreas relacionadas ao desenvolvimento. 
-
-Estou sempre disposta a aprender e me dar sempre meu melhor em tudo que faço! Sou apaixonada por tecnologia desde meu primeiro contato com ela quando mais nova. 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
