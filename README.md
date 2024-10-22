@@ -51,7 +51,3 @@
 <p align="left">Me chamo Maria Fernanda, atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pelo IFCE Campus Boa Viagem. Sou Técnica em Redes de Computadores pela mesma instituição. Atualmente, estou estudando e desenvolvendo minhas habilidades para me tornar uma Desenvolvedora FullStack.</p>
 
 ###
-
-<p align="left">Hello World!!</p>
-
-###
