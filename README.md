@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -49,5 +45,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">Me chamo Maria Fernanda, atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pelo IFCE Campus Boa Viagem. Sou Técnica em Redes de Computadores pela mesma instituição. Atualmente, estou estudando e desenvolvendo minhas habilidades para me tornar uma Desenvolvedora FullStack.</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
