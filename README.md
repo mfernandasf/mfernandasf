@@ -1,52 +1,57 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+# 👋 Olá, eu sou Maria Fernanda!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=FF6347&background=FFFFFF00&center=true&vCenter=true&lines=Desenvolvedor(a)+Full-Stack;Entusiasta+de+Tecnologia;Sempre+aprendendo+novas+skills!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maria+Fernanda;I'm+20+years+old;I+am+from+Boa+Viagem,+CE;I+study+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+---
 
+## 💡 **Sobre mim**
+- 👨‍💻 Sou estudante do curso de Análise e Desenvolvimento de Sistemas - IFCE Campus Boa Viagem
+- 🚀 Sempre em busca de desafios para crescer profissionalmente e pessoalmente, full-stack apaixonada por tecnologia e aprendizado constante.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaFernanda&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaFernanda&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
-</div>
+**Fun Facts:**
+- 🌐 Compreendo Inglês e Espanhol, e adoro aprender sobre novas culturas.
+- 📚 Apaixonado(a) livros e tudo que a leitura pode me proporcionar.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaFernanda&bg_color=000000&color=00FF00&line=3CB371&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--- 
 
+## 🛠️ **Habilidades Principais**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MariaFernanda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
-[![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-silva-facundo)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mfgamep@gmail.com)
+## 🌟 **Projetos Destacados**
 
-## Main Skills:
-<div style="display: inline_block"><br/>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=whit/>
-</div><br>
+### 1. [Projeto - Catálogo de Filmes](hhttps://github.com/mfernandasf/catalogodefilmes)
 
+**✨ Descrição:** Este projeto implementa um sistema simples de catálogo de filmes em C. Ele permite ao usuário inserir, buscar, visualizar e excluir filmes de um catálogo usando uma lista duplamente encadeada. O código inclui um menu interativo que facilita a navegação pelas funcionalidades.
+![Linguagem](https://img.shields.io/badge/C-informational?style=flat&logo=C&color=61DAFB)
 
-## Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+### 2. [Sistema de Gerenciamento de Pacientes](https://github.com/mfernandasf/CRUD-python)
+**✨ Descrição:** Este projeto é um sistema simples de gerenciamento de pacientes implementado em Python. A aplicação permite criar, consultar, atualizar, deletar e listar pacientes, armazenando os dados temporariamente em um dicionário.
+![Linguagem](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=61DAFB)
+---
 
+## 📊 **Estatísticas do GitHub**
 
-## Additional :
-  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfernandasf&show_icons=true&theme=radical)](https://github.com/mfernandasf)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wesnei}/count.svg" /></p> 
-<br></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandasf&layout=compact&theme=radical)](https://github.com/mfernandasf)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mfernandasf&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 👥 **Conecte-se comigo**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-silva-facundo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mfgamep@gmail.com)
+
+---
+
+**Obrigada por visitar meu perfil!** 😊
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mfernandasf&label=Visitantes&color=blue)
