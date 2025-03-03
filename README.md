@@ -6,11 +6,11 @@
 
 ## 💡 **Sobre mim**
 - 👨‍💻 Sou estudante do curso de Análise e Desenvolvimento de Sistemas - IFCE Campus Boa Viagem
-- 🚀 Sempre em busca de desafios para crescer profissionalmente e pessoalmente, full-stack apaixonada por tecnologia e aprendizado constante.
+- 🚀 Sempre em busca de desafios para crescer profissionalmente e pessoalmente, full-stack apaixonada por tecnologia
 
 **Fun Facts:**
-- 🌐 Compreendo Inglês e Espanhol, e adoro aprender sobre novas culturas.
-- 📚 Apaixonado(a) livros e tudo que a leitura pode me proporcionar.
+- 🌐 Compreendo Inglês e Espanhol, e adoro aprender sobre novas culturas
+- 📚 Apaixonado(a) livros
 
 --- 
 
