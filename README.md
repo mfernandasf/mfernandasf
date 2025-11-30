@@ -37,7 +37,7 @@
 
 ### 3. [Landing Page NUGEDS](https://github.com/mfernandasf/nugeds)
 **✨ Descrição:** Este projeto foi criado com o objetivo de apresentar de forma clara, acolheadora e responsiva as principais informações do núcleo, promovendo a visibilidade e o respeito à diversidade de gênero e sexualidade no ambiente acadêmico.
-**Acesse o projeto através do link:** (https://nugedsifcebvg.vercel.app/)
+**Acesse o projeto através do link:** https://nugedsifcebvg.vercel.app/
 ---
 
 ## 📊 **Estatísticas do GitHub**
