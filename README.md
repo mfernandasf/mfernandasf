@@ -6,11 +6,11 @@
 
 ## 💡 **Sobre mim**
 - 👨‍💻 Sou estudante do curso de Análise e Desenvolvimento de Sistemas - IFCE Campus Boa Viagem
-- 🚀 Sempre em busca de desafios para crescer profissionalmente e pessoalmente, full-stack apaixonada por tecnologia
+- 🚀 Sempre em busca de desafios para crescer profissionalmente e pessoalmente
 
 **Fun Facts:**
 - 🌐 Compreendo Inglês e Espanhol, e adoro aprender sobre novas culturas
-- 📚 Apaixonado(a) livros
+- 📚 Apaixonada livros
 
 --- 
 
@@ -34,6 +34,10 @@
 ### 2. [Sistema de Gerenciamento de Pacientes](https://github.com/mfernandasf/CRUD-python)
 **✨ Descrição:** Este projeto é um sistema simples de gerenciamento de pacientes implementado em Python. A aplicação permite criar, consultar, atualizar, deletar e listar pacientes, armazenando os dados temporariamente em um dicionário.
 ![Linguagem](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=61DAFB)
+
+### 3. [Landing Page NUGEDS](https://github.com/mfernandasf/nugeds)
+**✨ Descrição:** Este projeto foi criado com o objetivo de apresentar de forma clara, acolhedora e responsiva as principais informações do núcleo, promovendo a visibilidade e o respeito à diversidade de gênero e sexualidade no ambiente acadêmico.
+**Acesse o projeto através do link:** (https://nugedsifcebvg.vercel.app/)
 ---
 
 ## 📊 **Estatísticas do GitHub**
