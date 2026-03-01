@@ -1,26 +1,35 @@
 # 👋 Olá, eu sou Maria Fernanda!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=FF6347&background=FFFFFF00&center=true&vCenter=true&lines=Desenvolvedor(a)+Full-Stack;Entusiasta+de+Tecnologia;Sempre+aprendendo+novas+skills!)](https://git.io/typing-svg)
-
 ---
 
 ## 💡 **Sobre mim**
-- 👨‍💻 Sou estudante do curso de Análise e Desenvolvimento de Sistemas - IFCE Campus Boa Viagem
-- 🚀 Sempre em busca de desafios para crescer profissionalmente e pessoalmente
-
-**Fun Facts:**
-- 🌐 Compreendo Inglês e Espanhol, e adoro aprender sobre novas culturas
-- 📚 Apaixonada livros
+- 👨‍💻 Sou estudante do último semestre do curso de Análise e Desenvolvimento de Sistemas - IFCE Campus Boa Viagem.
+- 🚀 Sempre em busca de desafios para crescer profissionalmente e pessoalmente.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌱 Estou aprendendo mais sobre Python no Back-end.
 
 --- 
 
-## 🛠️ **Habilidades Principais**
+## 🛠️ **Minhas Skills**
 
+**Front-end**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+**Utilidades**
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+**DevOps**
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Dados**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Ferramentas de Desenvolvimento**
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ---
 
@@ -36,8 +45,9 @@
 ![Linguagem](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=61DAFB)
 
 ### 3. [Landing Page NUGEDS](https://github.com/mfernandasf/nugeds)
-**✨ Descrição:** Este projeto foi criado com o objetivo de apresentar de forma clara, acolheadora e responsiva as principais informações do núcleo, promovendo a visibilidade e o respeito à diversidade de gênero e sexualidade no ambiente acadêmico.
+**✨ Descrição:** Este projeto foi criado com o objetivo de apresentar de forma clara, acolhedora e responsiva as principais informações do núcleo, promovendo a visibilidade e o respeito à diversidade de gênero e sexualidade no ambiente acadêmico.
 **Acesse o projeto através do link:** https://nugedsifcebvg.vercel.app/
+
 ---
 
 ## 📊 **Estatísticas do GitHub**
