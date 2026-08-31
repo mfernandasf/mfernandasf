@@ -6,7 +6,6 @@
 - 👨‍💻 Graduada em Análise e Desenvolvimento de Sistemas pelo IFCE Campus Boa Viagem.
 - 🚀 Sempre em busca de desafios para crescer profissionalmente e pessoalmente.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 Estou aprendendo mais sobre Python no Back-end.
 
 --- 
 
